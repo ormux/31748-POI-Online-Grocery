@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+* {
+   margin: 0;
+}
+
+.tree {
+   width: 100%;
+   height: 100%;
+   border: 0;
+}
+.view {
+   width: 100%;
+   height: 100%;
+   border: 0;
+   background: orange;
+}
+.view-table {
+   width: 100%;
+   height: auto;
+   border: 1px solid black;
+   text-align: center;
+   font-family: 'Roboto Mono', monospace;
+}
+.view-add {
+   text-align: center;
+   margin: 0 auto;
+}
+.view-order {
+   text-align: center; 
+   border: 1px solid black;
+   table-layout: fixed;
+   width: 100%; 
+   font-family: 'Roboto Mono', monospace;
+   border-collapse: collapse;
+}
+.cart {
+   width: 100%;
+   height: 100%;
+   border: 0;
+   background: green;
+}
+.cart-table {
+   text-align: center; 
+   border: 1px solid black;
+   table-layout: fixed;
+   width: 100%; 
+   color: white;
+   font-family: 'Roboto Mono', monospace;
+   border-collapse: collapse;
+}
+tr.grand-total td {
+   border-top: 1px solid black;
+}
+.center {
+   float: center;
+   margin: 0 auto;
+   text-align: center;
+}
