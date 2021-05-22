@@ -1,7 +1,6 @@
 <h1 align="center">31748 Online Grocery Project</h1>
 <h5 align="center">23/04/2021</h5>
 
-
 ![sample](images/screenshot.png)
 
 <h3 align="center">Instructions</h3>
@@ -17,7 +16,7 @@ $DB_PASS = <database pass>
 ?>
 ```
 
-<h4 align="center">technologies used</h4>
+<h5 align="center">technologies</h5>
 <div align="center">
    <img alt="aws" src="https://img.shields.io/badge/-AWS-black?logo=amazon%20aws&logoColor=gold">
    <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript">
