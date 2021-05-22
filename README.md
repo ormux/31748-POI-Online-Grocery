@@ -5,7 +5,8 @@
 ![sample](images/screenshot.png)
 
 <h3 align="center">Instructions</h3>
-Before deployment make sure to create a `config.php` with the properties of your database.
+
+Before deployment make sure to create a file `include/config.php` with the credentials of your database.
 
 ```
 <?php
