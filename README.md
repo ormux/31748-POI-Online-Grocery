@@ -18,8 +18,8 @@ $DB_PASS = <database pass>
 
 <h4 align="center">technologies used</h4>
 <div align="center">
-   <img alt="aws" src="https://img.shields.io/badge/-AWS-black?logo=amazon%20aws&logoColor=limegreen">
-   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=limegreen">
-   <img alt="mysql" src="https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColor=limegreen">
-   <img alt="php" src="https://img.shields.io/badge/-PHP-black?logo=php&logoColor=limegreen">
+   <img alt="aws" src="https://img.shields.io/badge/-AWS-black?logo=amazon%20aws&logoColor=gold">
+   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript">
+   <img alt="mysql" src="https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColor=cyan">
+   <img alt="php" src="https://img.shields.io/badge/-PHP-black?logo=php">
 </div>
